@@ -34,4 +34,4 @@ An end-to-end data analytics pipeline that performs ETL (Extract, Transform, Loa
 ## 📂 Project Structure & Deliverables
 * 🐍 [View Python ETL & Analysis Code](Ecom%20Analysis.ipynb) — Opens your clean processing script directly on GitHub.
 * 🛠️ [Download Power BI Layout File (.pbix)](E-Commerce%20Report.pbix) — For clients and developers who want to inspect the structural data model layout.
-* 💾 [Access Raw Messy Data Source (External Link)](PASTE_YOUR_GOOGLE_DRIVE_EXCEL_LINK_HERE) — Link to the original 45MB transaction log spreadsheet.
+* 💾 [Access Raw Messy Data Source (External Link)](https://drive.google.com/file/d/1i0KtfyA1kmR0_1zKsMzwwm5wWANei_-O/view?usp=sharing) — Link to the original 45MB transaction log spreadsheet.
